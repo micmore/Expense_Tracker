@@ -42,12 +42,27 @@ Contributions are what make the open-source community such an amazing place to l
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
+## Contributing and Acknowledgments
 
-- Tkinter library for providing the GUI components.
-- Python community for continuous support and inspiration.
+I welcome anyone interested in contributing to the improvement and expansion of Expense Tracker! If you decide to fork or use this project as a basis for your own, I kindly ask for proper acknowledgment by linking back to the original repository.
 
-## Contact
+To contribute or fork the project, please follow these steps:
+
+1. Fork the Project from [micmore/Expense_Tracker](https://github.com/micmore/Expense_Tracker)
+2. Create your feature branch (`git checkout -b feature/YourAmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some YourAmazingFeature'`)
+4. Push to the branch (`git push origin feature/YourAmazingFeature`)
+5. Open a Pull Request
+
+By contributing, you agree to make your improvements available under the same license as the original project.
+
+If you use this project or its components, please acknowledge by linking back to:
+
+- **GitHub Profile:** [micmore](https://github.com/micmore)
+- **Repository:** [Expense_Tracker](https://github.com/micmore/Expense_Tracker)
+
+Thank you for your support and acknowledgment!
+
 
 
 
