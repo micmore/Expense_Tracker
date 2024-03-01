@@ -1,4 +1,4 @@
-# BudgetApp
+# ExpenseApp
 
 BudgetApp is a user-friendly Python application that helps users manage and track their expenses across different categories using a graphical interface. Built with the Tkinter module, this application provides an intuitive way for users to monitor their spending habits over time.
 
