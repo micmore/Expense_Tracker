@@ -16,9 +16,14 @@ Before running the BudgetApp, you need to have Python installed on your system. 
 
 Once Python is installed, follow these steps to get BudgetApp running on your system:
 
-1. Clone the repository to your local machine:
-2. Navigate to the cloned directory:
-3. Run the application with Python:
+1. **Clone the Repository:** Start by cloning the Expense Tracker repository to your local machine. Use the following command in your terminal or command prompt:
+
+   ```bash
+   git clone https://github.com/micmore/Expense_Tracker.git
+
+
+![Expense Tracker](https://media.giphy.com/media/RsjxAUCtee5gVYsXNV/giphy.gif)
+
 
 ## Usage
 
